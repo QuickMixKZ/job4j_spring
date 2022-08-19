@@ -1,4 +1,4 @@
-package ru.jo4j.spring.di;
+package ru.job4j.spring.di;
 
 import java.lang.reflect.Constructor;
 import java.util.ArrayList;
